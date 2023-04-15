@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "AgCihnQmJAF3GktVzCQoOql0MLepLo4fzuaU6yClUDjZ_RYcUOvUOOXEq5VcLO5c943mB2T5vv3Wxl2JLxy2YB4unN49q1Mq9xpgSCATJnibU-uhuAF-ucIC61RdnAYhP9miC17y590yrtgt8Ygks_3jhRjHgjXgmDPSI7_FcKER8iO5ggqOnnOQgCiVpLaFbcS1b0J9QVXjxP9tRlmfDvg5JG5HFNh9b3Y0Cwf6fkXKGPrn4Kh49ooQogCxvH3dxwZy53PaZ_P69WS8FaPMNppybcM95CxRr48l3KwMnza7IeiTi_wldWQXqCR6oCq7wm0NDzpslvy2q47U1GxNnwVQWp7lFQA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,7 +65,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001604961919",
         "required": true
       },
       "UPSTREAM_REPO": {
